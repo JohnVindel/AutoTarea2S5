@@ -1,4 +1,4 @@
-#Tarea 1 - Conversacion
+#Tarea 2 - Precios
 import telebot 
 
 bot = telebot.TeleBot('1883937208:AAEcgBcQnAmqmw0Pd8Ezfex0NXO8RuaoJIs')
